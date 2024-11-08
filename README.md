@@ -10,9 +10,6 @@ The method of distribution I am focused on is through these YouTube videos. The 
 ## Reproduction
 I wanted to test this for myself. In an attempt to do so, I wrote a very simple piece of code and designed it to look like the ones I saw during my research. With my goal being education and staying professional, including real malware in my file was out of the picture. The executable simply opens a string of Windows message boxes explaining the dangers of running something which explicitly asks for the removal of antivirus, along with showcasing the purpose of my study. As a way of gathering data, it also makes a GET request to a server which I monitor and log. For some extra fun, it grabs an image from the server and sets it as the user's wallpaper; a change entirely harmless and easy to revert, yet impossible to go unnoticed. To package the malware, I recorded and edited a video, following the format I picked up during my research. My video shows two clips of downloading and running the client, one through Chrome and one through Edge, followed by a cut to gameplay I found by downloading a different video.
 
-## Results
-This study is ongoing, and only began a couple hours prior to me creating this repository. I have already received confirmation that the client has been downloaded and run on multiple machines by real victims and will be organizing the data and posting it here when I decide it is time to end the study.
-
 ## Conclusion
 I want to make it explicitly clear, my goal is to do NO harm. The people who fall for this method of distribution are uneducated about the dangers and desperate to find what they are looking for. I am not aiming to embarrass any victim, but attempting to expose and create knowledge around how deep this rabbit hole runs.
 
